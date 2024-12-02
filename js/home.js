@@ -3,6 +3,7 @@
 s-1: add event handler
 prevent page reload after form submit
 s-2: get money to be added to the account balance
+s-3: verify the pin number
 */ 
 
 // step-1: add an event handler to the add money button inside the form
